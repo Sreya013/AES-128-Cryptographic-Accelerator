@@ -76,5 +76,13 @@ I also analysed the AXI transactions using simulation waveforms to make sure tha
 
 
 **Plaintext**
-```text
 3243F6A8885A308D313198A2E0370734
+**Key**
+
+2B7E151628AED2A6ABF7158809CF4F3C
+
+**Expected Ciphertext**
+
+3925841D02DC09FBDC118597196A0B32
+
+The RTL produced the expected ciphertext.
