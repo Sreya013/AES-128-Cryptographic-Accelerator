@@ -85,3 +85,43 @@ I also analysed the AXI transactions using simulation waveforms to make sure tha
 3925841D02DC09FBDC118597196A0B32
 
 The RTL produced the expected ciphertext.
+
+Tools & Technologies
+SystemVerilog
+AMD Vivado
+RTL Design
+AXI4-Lite
+AES-128
+Digital Design & Verification
+
+Key Features
+AES-128 encryption
+128-bit plaintext input
+128-bit encryption key
+Iterative AES round architecture
+FSM-based control
+AES-128 key expansion
+AXI4-Lite slave interface
+SystemVerilog-based verification
+Simulation waveform analysis
+
+How to Run
+Clone or download this repository.
+Open the AES project in AMD Vivado.
+Add the RTL source files and simulation testbench.
+Set the appropriate top module and simulation top.
+Run behavioral simulation.
+Apply the AES-128 test vector given above.
+Observe the generated ciphertext and simulation waveforms.
+
+The expected ciphertext for the test vector is:
+3925841D02DC09FBDC118597196A0B32
+
+Project Status
+The AES-128 encryption accelerator has been implemented and verified through SystemVerilog simulation using the standard AES-128 test vector.
+
+Author
+Sreya.P
+Electronics and Communication Engineering Student
+
+Interested in RTL Design, VLSI, FPGA .
