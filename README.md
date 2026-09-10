@@ -386,6 +386,7 @@ Waveforms analysed
 
 ## Author
 Sreya
+
 ECE Graduate | VLSI | RTL Design | Design Verification
 
 ## Interested in opportunities in:
